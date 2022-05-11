@@ -1,0 +1,17 @@
+.h1 {
+    color: aquamarine;
+    background-color: rgb(131, 143, 133);
+}
+
+.h2 {
+    color: aquamarine;
+    background-color: rgb(131, 143, 133);
+}
+
+.h1.clicked {
+    color: burlywood;
+}
+
+.h2.clicked {
+    color: greenyellow;
+}
