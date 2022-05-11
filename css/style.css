@@ -9,9 +9,9 @@
 }
 
 .h1.clicked {
-    color: burlywood;
+    color: red;
 }
 
 .h2.clicked {
-    color: greenyellow;
+    color: red;
 }
